@@ -5,8 +5,8 @@ Date (UTC),Time (UTC),Rocket Type,Launch Site,Latitude,Longitude,Operator (ISO-2
 1969-01-14,07:30,Soyuz,Baikonur LC-31,45.95515,63.35028,SU,Successful,KZ
 1969-01-15,07:04,Soyuz,Baikonur LC-1/5,45.95515,63.35028,SU,Successful,KZ
 1969-01-20,04:14,Proton-K/D,Baikonur Site 81/23,45.95515,63.35028,SU,Failure,KZ
-1969-01-22,16:48,Delta C1,Cape Canaveral SLC-17,28.46675,-80.55852,SU,Successful,US
-1969-01-22,19:10,Titan IIIB,Vandenberg SLC-4W,34.77204,-120.60124,SU,Partial failure,SU
+1969-01-22,16:48,Delta C1,Cape Canaveral SLC-17,28.46675,-80.55852,US,Successful,US
+1969-01-22,19:10,Titan IIIB,Vandenberg SLC-4W,34.77204,-120.60124,US,Partial failure,US
 1969-01-23,09:15,Voskhod,Baikonur Site 1/5,45.95515,63.35028,SU,Successful, KZ
 1969-01-25,11:10,Tsyklon-2A,Baikonur Site 90/19,45.95515,63.35028,SU,Failure,KZ
 1969-01-30,06:46,Delta E1,Vandenberg SLC-2E,34.77204,-120.60124,US,Successful,US
